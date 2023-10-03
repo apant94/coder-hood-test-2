@@ -4,7 +4,7 @@
 
 ## Ссылки:
 
-- [Сайт на pages](https://apant94.github.io/forbes-yandex-cloud/)
+- [Сайт на pages](https://apant94.github.io/coder-hood-test-2/)
 
 ## Функционал:
 
