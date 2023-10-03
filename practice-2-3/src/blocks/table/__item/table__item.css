@@ -1,0 +1,6 @@
+.table__item {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  list-style-type: none;
+}

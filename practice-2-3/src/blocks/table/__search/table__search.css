@@ -1,0 +1,8 @@
+.table__search {
+  width: 50%;
+  height: 30px;
+  padding: 5px 10px;
+  border: 1px solid #7058ec;
+  border-radius: 10px;
+  font-size: 16px;
+}
